@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Digitrustec.CTA.Mac</title>
+        <item>
+            <title>1.2</title>
+            <pubDate>Wed, 05 Mar 2025 08:59:56 +0300</pubDate>
+            <sparkle:version>1.2</sparkle:version>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>11.5</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Murhaf-Mo/Digitrustec.CTA/releases/download/prod/DigiTrustec.CTA.dmg" length="47286570" type="application/octet-stream" sparkle:edSignature="7mRK42JOCtXv5EvIi3BCKRq7LSpn8ZY3Xe5pF2z+9fVW7VN1KLSQx30J82IjIgzIxwCy0tDQsQnU+pPPvOgBDw=="/>
+        </item>
+    </channel>
+</rss>
